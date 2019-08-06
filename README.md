@@ -3,4 +3,10 @@
 数据为垃圾短信数据，实现垃圾短信分类。
 ## 1、感知机
 perceptron.py<br />
+## 2、KNN
+knn.py<br />
+KNN计算比较慢，线性扫描相当于全量数据计算一次，kd树的方法也不快。
+<br />
 ......
+## 参考
+1、https://github.com/KangCai/Machine-Learning-Algorithm
