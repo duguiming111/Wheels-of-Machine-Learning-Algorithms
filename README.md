@@ -4,8 +4,7 @@
 ## 1、感知机
 <a href="https://github.com/duguiming111/Wheels-of-Machine-Learning-Algorithms/blob/master/perceptron.py">perceptron.py</a>
 ## 2、KNN
-<a href="https://github.com/duguiming111/Wheels-of-Machine-Learning-Algorithms/blob/master/knn.py">knn.py</a>
-knn.py<br />
+<a href="https://github.com/duguiming111/Wheels-of-Machine-Learning-Algorithms/blob/master/knn.py">knn.py</a> <br />
 KNN计算比较慢，线性扫描相当于全量数据计算一次，kd树的方法也不快。
 <br />
 ......
