@@ -2,8 +2,9 @@
 不调包，手动实现机器学习算法，包括感知机、KNN、逻辑回归等，不断更新......<br />
 数据为垃圾短信数据，实现垃圾短信分类。
 ## 1、感知机
-perceptron.py<br />
+<a href="https://github.com/duguiming111/Wheels-of-Machine-Learning-Algorithms/blob/master/perceptron.py">perceptron.py</a>
 ## 2、KNN
+<a href="https://github.com/duguiming111/Wheels-of-Machine-Learning-Algorithms/blob/master/knn.py">knn.py</a>
 knn.py<br />
 KNN计算比较慢，线性扫描相当于全量数据计算一次，kd树的方法也不快。
 <br />
