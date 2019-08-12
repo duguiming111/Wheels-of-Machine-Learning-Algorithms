@@ -7,6 +7,8 @@
 <a href="https://github.com/duguiming111/Wheels-of-Machine-Learning-Algorithms/blob/master/knn.py">knn.py</a> <br />
 KNN计算比较慢，线性扫描相当于全量数据计算一次，kd树的方法也不快。
 <br />
+## 3、朴素贝叶斯算法
+
 ......
 ## 参考
 1、https://github.com/KangCai/Machine-Learning-Algorithm

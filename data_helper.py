@@ -22,8 +22,8 @@ class DataGenerate(object):
             label, text = line[:-1].split('\t', 1)
             text_list.append(list(jieba.cut(text)))
             # 感知机，这里把0标签换成-1标签
-            if int(label) == 0:
-                label = -1
+            # if int(label) == 0:
+            #     label = -1
             y.append(int(label))
         return sklearn.model_selection.train_test_split(text_list, y, test_size=test_size, random_state=1028)
 
