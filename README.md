@@ -9,6 +9,8 @@ KNN计算比较慢，线性扫描相当于全量数据计算一次，kd树的方
 <br />
 ## 3、朴素贝叶斯算法
 <a href="https://github.com/duguiming111/Wheels-of-Machine-Learning-Algorithms/blob/master/naive_bayes.py">naive_bayes.py</a><br />
+## 4、逻辑回归
+<a href="https://github.com/duguiming111/Wheels-of-Machine-Learning-Algorithms/blob/master/logistic_regression.py">logistic_regression.py</a><br />
 ......
 ## 参考
 1、https://github.com/KangCai/Machine-Learning-Algorithm
