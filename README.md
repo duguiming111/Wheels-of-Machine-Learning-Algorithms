@@ -11,7 +11,7 @@ KNN计算比较慢，线性扫描相当于全量数据计算一次，kd树的方
 <a href="https://github.com/duguiming111/Wheels-of-Machine-Learning-Algorithms/blob/master/naive_bayes.py">naive_bayes.py</a><br />
 ## 4、逻辑回归
 <a href="https://github.com/duguiming111/Wheels-of-Machine-Learning-Algorithms/blob/master/logistic_regression.py">logistic_regression.py</a><br />
-## 5. 决策树
+## 5、 决策树
 <a href="https://github.com/duguiming111/Wheels-of-Machine-Learning-Algorithms/blob/master/decision_tree.py">decision_tree.py</a><br />
 ......
 ## 参考
